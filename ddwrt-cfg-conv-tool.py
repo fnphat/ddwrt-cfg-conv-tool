@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 """
+The MIT License (MIT)
+
 Copyright (c) 2015 Frederic N. Therrien
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
